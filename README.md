@@ -20,5 +20,4 @@ O projeto conta com conteúdos vistos na primeira semana do primeiro módulo do 
 - Variáveis
 - Operadores matemáticos
 - Condicionais
-- Estruturas de controle
 - Estruturas de repetição
